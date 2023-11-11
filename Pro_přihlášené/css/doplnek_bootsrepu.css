@@ -1,0 +1,31 @@
+.velikost_oblibenych_prispevku{
+    width: 200px; 
+    height: 100px;
+
+}
+
+.tlacitko_panel
+{
+    width: 150px;
+}
+
+.pozadí_ciselne_soustavy{
+    
+    position: relative;
+    width: 50vw;height: 76vh;
+   
+
+    
+    background-image: url(../obrázky/ciselne_soustavy.png);
+   background-repeat: no-repeat;
+
+}
+.pozadí_Jazyk_C{
+    
+    position: relative;
+    
+    background-image: url(../obrázky/Jazyk_C.png);
+   background-repeat: no-repeat;
+
+}
+
